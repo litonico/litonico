@@ -4,6 +4,8 @@ I'm a programmer and writer.
 
 Here are some things I've worked on:
 - For Oso's [Authorization Academy](https://www.osohq.com/academy), I worked with academic specialists in authorization to bring their domain knowledge to wider audiences. I think that between their knowledge and my writing, we made something both comprehensive and accessible! We got very good reviews on hackernews :)
+- I've written technical documentation for [Oso](https://www.osohq.com/docs/tutorials/quickstart), nontechnical documentation for [Tuple](https://docs.tuple.app/article/34-preferences-general
+), and product guides for [Moment](https://docs.moment.dev/moment-docs).
 - Also at Oso, I ran an interview series with noted developers, like this interview with [Charity Majors of Honeycomb](https://www.osohq.com/post/developer-den-with-charity-majors).
 - I worked with Gary Bernhardt (of [Wat](https://www.destroyallsoftware.com/talks/wat) fame) on [Execute Program](https://www.executeprogram.com/), an interactive set of programming lessons for professional programmers. There, I wrote lessons for experienced developers, like [this lesson](https://www.executeprogram.com/courses/everyday-typescript/lessons/as-is-dangerous) on the dangers of TypeScript's `as` keyword.
 - For Destroy All Software, I co-produced and edited a video series on writing core computer tools from scratch, like this lesson on [writing a compiler from scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch).

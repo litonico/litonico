@@ -3,6 +3,7 @@
 I'm a programmer and writer.
 
 Here are some things I've worked on:
+- My blog, [About Computers](https://litonico.github.io/about-computers/)
 - For Oso's [Authorization Academy](https://www.osohq.com/academy), I worked with academic specialists in authorization to bring their domain knowledge to wider audiences. I think that between their knowledge and my writing, we made something both comprehensive and accessible! We got very good reviews on hackernews :)
 - I've written technical documentation for [Oso](https://www.osohq.com/docs/tutorials/quickstart), nontechnical documentation for [Tuple](https://docs.tuple.app/article/34-preferences-general
 ), and product guides for [Moment](https://docs.moment.dev/moment-docs).
